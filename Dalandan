@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page title</title>
+    <style>
+        body{
+            margin: 0;
+        }
+        nav{
+            background-color: maroon;
+            padding: 15px 15px;
+        }
+        .Link{
+            text-align: center;
+            padding: 10px 10px;
+        }
+        a{
+            margin: 5px;
+            padding: 10px 10px;
+            font-weight: bold;
+            text-decoration: none;
+            color: white;
+            text-shadow: 2px 2px 3px white;
+            border: 1px solid black;
+            box-shadow: 2px 2px 3px black;            
+          }
+          h1{
+            text-align: center;
+            font-size: 10px;
+           }
+                
+                
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="Link">
+            <a href="About me.html">About me</a>
+            <a href="Dream.html">Dream</a>
+            <a href="Family.html">Family</a>
+       </div>
+    </nav>
+    
+    <div>
+        <h1>
+            my mothers name is Mama I am delfor Fernandez, my father's name is dante Cruz and my siblings names are Ella, Dandan, Jc, Ellainr, they are the kindest siblings and they work hard just so we can eat every day and buy our daily needs.
+         </h1>
+    </div>
+    
+    
+</body>
+</html>￼Enter
